@@ -1,0 +1,16 @@
+account:
+  branch: gh-pages
+  email: teemotut@gmail.com
+  password: '123456'
+  repository: test_repo
+  user_name: TeemoMouse
+example: null
+markdown_files:
+- 大腸癌.md
+- 大腸癌_1701068831.md
+new_theme_name: my_ls
+project_config: t1pc.yml
+project_name: test_repo_1
+theme_config: t1tc.yml
+theme_name: landscape
+url: null

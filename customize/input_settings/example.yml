@@ -1,0 +1,55 @@
+# If you don't want to setting, just write null.
+# Like this:
+example:
+  null
+# Do not add new key or delete or modify any key.
+
+# Your project name.
+project_name:
+  <project_name>
+# Use which theme.
+theme_name:
+  <origin_theme_name>
+# Your new theme name.
+new_theme_name:
+  <new_theme_name>
+
+# Your `project` config file name.
+project_config:
+  <project_config_file>
+# Your `theme` config file name.
+theme_config:
+  <theme_config_file>
+
+#css_style:
+#  <css_file>
+
+# Github account.
+account:
+  user_name:
+    <user_name>
+  email:
+    <email>
+  password:
+    <password>
+  # Your github repository name.
+  repository:
+    <repository_name>
+  # Your github branch name.
+  branch:
+    <branch_name>
+# Change the github page url to this url.
+url:
+  <url>
+cancer:
+  <cancer1>
+  <cancer2>
+
+drug:
+  <drug1>
+  <drug2>
+
+markdown_files: [
+  <md1>,
+  <md2>
+]

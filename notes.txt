@@ -1,0 +1,36 @@
+One user, one github page (default url):
+https://stackoverflow.com/questions/15563685/can-i-create-more-than-one-repository-for-github-pages
+
+Only for user name:
+https://stackoverflow.com/questions/75654994/github-pages-url-pointing-to-github-username-instead-the-repository-name
+
+Multiple pages in one repository:
+https://stackoverflow.com/questions/69872193/multiple-pages-in-single-repository
+
+Solved:
+https://zhuanlan.zhihu.com/p/183977963
+
+Note:
+
+Buffer:
+git clone https://github.com/TeemoMouse/test_repo.git
+git add .
+git commit "t"
+git push
+
+url: https://TeemoMouse.github.io/test_repo
+url: https://TeemoMouse.github.io/blog_page
+url: https://TeemoMouse.github.io/check
+
+Github change "https push" to "ssh push":
+https://medium.com/@wama.tw/%E6%96%B0%E5%A2%9E-github-ssh-key-3e941c281ffa
+
+ssh-agent setting:
+https://blog.csdn.net/weixin_40922744/article/details/107576748
+
+Enable ssh-agent service:
+https://stackoverflow.com/questions/52113738/starting-ssh-agent-on-windows-10-fails-unable-to-start-ssh-agent-service-erro
+
+Note-Docker:
+https://dst-justin.notion.site/docker-kubernetes-the-practical-guide-cf8d75aeb9d54fc4b42757f837f61dc8
+https://yeasy.gitbook.io/docker_practice/

@@ -1,0 +1,261 @@
+[2023-11-15 15:39:37,079];ERROR;error;newHexo.bat;warning hexo > warehouse > cuid@2.1.8: Cuid and other k-sortable and non-cryptographic ids (Ulid, ObjectId, KSUID, all UUIDs) are all insecure. Use @paralleldrive/cuid2 instead.
+[2023-11-15 15:39:49,653];ERROR;error;pushProject.bat;warning: LF will be replaced by CRLF in 2023/11/15/大腸癌/index.html.
+[2023-11-15 15:39:49,653];ERROR;error;pushProject.bat;The file will have its original line endings in your working directory
+[2023-11-15 15:39:49,653];ERROR;error;pushProject.bat;warning: LF will be replaced by CRLF in archives/2023/11/index.html.
+[2023-11-15 15:39:49,654];ERROR;error;pushProject.bat;The file will have its original line endings in your working directory
+[2023-11-15 15:39:49,654];ERROR;error;pushProject.bat;warning: LF will be replaced by CRLF in archives/2023/index.html.
+[2023-11-15 15:39:49,654];ERROR;error;pushProject.bat;The file will have its original line endings in your working directory
+[2023-11-15 15:39:49,654];ERROR;error;pushProject.bat;warning: LF will be replaced by CRLF in archives/index.html.
+[2023-11-15 15:39:49,655];ERROR;error;pushProject.bat;The file will have its original line endings in your working directory
+[2023-11-15 15:39:49,655];ERROR;error;pushProject.bat;warning: LF will be replaced by CRLF in css/style.css.
+[2023-11-15 15:39:49,655];ERROR;error;pushProject.bat;The file will have its original line endings in your working directory
+[2023-11-15 15:39:49,656];ERROR;error;pushProject.bat;warning: LF will be replaced by CRLF in fancybox/jquery.fancybox.min.js.
+[2023-11-15 15:39:49,656];ERROR;error;pushProject.bat;The file will have its original line endings in your working directory
+[2023-11-15 15:39:49,656];ERROR;error;pushProject.bat;warning: LF will be replaced by CRLF in index.html.
+[2023-11-15 15:39:49,656];ERROR;error;pushProject.bat;The file will have its original line endings in your working directory
+[2023-11-15 15:39:49,656];ERROR;error;pushProject.bat;warning: LF will be replaced by CRLF in js/jquery-3.6.4.min.js.
+[2023-11-15 15:39:49,656];ERROR;error;pushProject.bat;The file will have its original line endings in your working directory
+[2023-11-15 15:39:49,656];ERROR;error;pushProject.bat;warning: LF will be replaced by CRLF in js/script.js.
+[2023-11-15 15:39:49,656];ERROR;error;pushProject.bat;The file will have its original line endings in your working directory
+[2023-11-15 15:39:49,656];ERROR;error;pushProject.bat;From github.com:TeemoMouse/test_repo
+[2023-11-15 15:39:49,656];ERROR;error;pushProject.bat;* branch            main       -> FETCH_HEAD
+[2023-11-15 15:39:49,656];ERROR;error;pushProject.bat;* [new branch]      main       -> origin/main
+[2023-11-15 15:39:49,656];ERROR;error;pushProject.bat;To github.com:TeemoMouse/test_repo.git
+[2023-11-15 15:39:49,656];ERROR;error;pushProject.bat;+ 6364b3a...9fd2b3f main -> main (forced update)
+[2023-11-15 16:55:15,493];ERROR;error;newHexo.bat;warning hexo > warehouse > cuid@2.1.8: Cuid and other k-sortable and non-cryptographic ids (Ulid, ObjectId, KSUID, all UUIDs) are all insecure. Use @paralleldrive/cuid2 instead.
+[2023-11-15 16:55:31,149];ERROR;error;pushProject.bat;warning: LF will be replaced by CRLF in css/style.css.
+[2023-11-15 16:55:31,149];ERROR;error;pushProject.bat;The file will have its original line endings in your working directory
+[2023-11-15 16:55:31,149];ERROR;error;pushProject.bat;warning: LF will be replaced by CRLF in fancybox/jquery.fancybox.min.js.
+[2023-11-15 16:55:31,149];ERROR;error;pushProject.bat;The file will have its original line endings in your working directory
+[2023-11-15 16:55:31,149];ERROR;error;pushProject.bat;warning: LF will be replaced by CRLF in js/jquery-3.6.4.min.js.
+[2023-11-15 16:55:31,151];ERROR;error;pushProject.bat;The file will have its original line endings in your working directory
+[2023-11-15 16:55:31,151];ERROR;error;pushProject.bat;warning: LF will be replaced by CRLF in js/script.js.
+[2023-11-15 16:55:31,151];ERROR;error;pushProject.bat;The file will have its original line endings in your working directory
+[2023-11-15 16:55:31,152];ERROR;error;pushProject.bat;Warning: Permanently added the ECDSA host key for IP address '20.205.243.166' to the list of known hosts.
+[2023-11-15 16:55:31,152];ERROR;error;pushProject.bat;From github.com:TeemoMouse/test_repo
+[2023-11-15 16:55:31,152];ERROR;error;pushProject.bat;* branch            main       -> FETCH_HEAD
+[2023-11-15 16:55:31,153];ERROR;error;pushProject.bat;* [new branch]      main       -> origin/main
+[2023-11-15 16:55:31,153];ERROR;error;pushProject.bat;To github.com:TeemoMouse/test_repo.git
+[2023-11-15 16:55:31,153];ERROR;error;pushProject.bat;+ 9fd2b3f...4b46157 main -> main (forced update)
+[2023-11-20 09:31:02,401];ERROR;error;newHexo.bat;warning hexo > warehouse > cuid@2.1.8: Cuid and other k-sortable and non-cryptographic ids (Ulid, ObjectId, KSUID, all UUIDs) are all insecure. Use @paralleldrive/cuid2 instead.
+[2023-11-20 09:31:54,057];ERROR;error;newHexo.bat;warning hexo > warehouse > cuid@2.1.8: Cuid and other k-sortable and non-cryptographic ids (Ulid, ObjectId, KSUID, all UUIDs) are all insecure. Use @paralleldrive/cuid2 instead.
+[2023-11-20 09:32:08,563];ERROR;error;pushProject.bat;warning: LF will be replaced by CRLF in css/animate.css.
+[2023-11-20 09:32:08,564];ERROR;error;pushProject.bat;The file will have its original line endings in your working directory
+[2023-11-20 09:32:08,564];ERROR;error;pushProject.bat;warning: LF will be replaced by CRLF in css/style.css.
+[2023-11-20 09:32:08,564];ERROR;error;pushProject.bat;The file will have its original line endings in your working directory
+[2023-11-20 09:32:08,565];ERROR;error;pushProject.bat;warning: LF will be replaced by CRLF in css/tocas.css.
+[2023-11-20 09:32:08,565];ERROR;error;pushProject.bat;The file will have its original line endings in your working directory
+[2023-11-20 09:32:08,565];ERROR;error;pushProject.bat;warning: LF will be replaced by CRLF in js/script.js.
+[2023-11-20 09:32:08,565];ERROR;error;pushProject.bat;The file will have its original line endings in your working directory
+[2023-11-20 09:32:08,566];ERROR;error;pushProject.bat;warning: LF will be replaced by CRLF in js/tocas.js.
+[2023-11-20 09:32:08,567];ERROR;error;pushProject.bat;The file will have its original line endings in your working directory
+[2023-11-20 09:32:08,567];ERROR;error;pushProject.bat;From github.com:TeemoMouse/blog_page
+[2023-11-20 09:32:08,567];ERROR;error;pushProject.bat;* branch            main       -> FETCH_HEAD
+[2023-11-20 09:32:08,567];ERROR;error;pushProject.bat;* [new branch]      main       -> origin/main
+[2023-11-20 09:32:08,567];ERROR;error;pushProject.bat;To github.com:TeemoMouse/blog_page.git
+[2023-11-20 09:32:08,567];ERROR;error;pushProject.bat;+ aba36aa...fa5c1a1 main -> main (forced update)
+[2023-11-20 09:40:38,049];ERROR;error;builder.py;Traceback (most recent call last):
+[2023-11-20 09:40:38,049];ERROR;error;builder.py;File "C:\Users\user\Desktop\workspace\Cancerfree\Hexo_Builder\builder.py", line 262, in <module>
+[2023-11-20 09:40:38,049];ERROR;error;builder.py;new_Hexo_project(args.rebuild, user_config['project_name'])
+[2023-11-20 09:40:38,049];ERROR;error;builder.py;File "C:\Users\user\Desktop\workspace\Cancerfree\Hexo_Builder\builder.py", line 72, in new_Hexo_project
+[2023-11-20 09:40:38,049];ERROR;error;builder.py;shutil.rmtree(r'./projects/{}'.format(project_name))
+[2023-11-20 09:40:38,049];ERROR;error;builder.py;File "C:\Users\user\AppData\Local\Programs\Python\Python311\Lib\shutil.py", line 759, in rmtree
+[2023-11-20 09:40:38,049];ERROR;error;builder.py;return _rmtree_unsafe(path, onerror)
+[2023-11-20 09:40:38,049];ERROR;error;builder.py;^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[2023-11-20 09:40:38,049];ERROR;error;builder.py;File "C:\Users\user\AppData\Local\Programs\Python\Python311\Lib\shutil.py", line 617, in _rmtree_unsafe
+[2023-11-20 09:40:38,049];ERROR;error;builder.py;_rmtree_unsafe(fullname, onerror)
+[2023-11-20 09:40:38,049];ERROR;error;builder.py;File "C:\Users\user\AppData\Local\Programs\Python\Python311\Lib\shutil.py", line 617, in _rmtree_unsafe
+[2023-11-20 09:40:38,049];ERROR;error;builder.py;_rmtree_unsafe(fullname, onerror)
+[2023-11-20 09:40:38,049];ERROR;error;builder.py;File "C:\Users\user\AppData\Local\Programs\Python\Python311\Lib\shutil.py", line 617, in _rmtree_unsafe
+[2023-11-20 09:40:38,049];ERROR;error;builder.py;_rmtree_unsafe(fullname, onerror)
+[2023-11-20 09:40:38,049];ERROR;error;builder.py;[Previous line repeated 1 more time]
+[2023-11-20 09:40:38,049];ERROR;error;builder.py;File "C:\Users\user\AppData\Local\Programs\Python\Python311\Lib\shutil.py", line 622, in _rmtree_unsafe
+[2023-11-20 09:40:38,049];ERROR;error;builder.py;onerror(os.unlink, fullname, sys.exc_info())
+[2023-11-20 09:40:38,049];ERROR;error;builder.py;File "C:\Users\user\AppData\Local\Programs\Python\Python311\Lib\shutil.py", line 620, in _rmtree_unsafe
+[2023-11-20 09:40:38,058];ERROR;error;builder.py;os.unlink(fullname)
+[2023-11-20 09:40:38,058];ERROR;error;builder.py;PermissionError: [WinError 5] 存取被拒。: './projects/test_repo_2\\public\\.git\\objects\\0f\\aadb79d3f96b1200f7db91fbdab00cf0c7ac0c'
+[2023-11-20 09:40:46,108];ERROR;error;builder.py;Traceback (most recent call last):
+[2023-11-20 09:40:46,108];ERROR;error;builder.py;File "C:\Users\user\Desktop\workspace\Cancerfree\Hexo_Builder\builder.py", line 262, in <module>
+[2023-11-20 09:40:46,108];ERROR;error;builder.py;new_Hexo_project(args.rebuild, user_config['project_name'])
+[2023-11-20 09:40:46,108];ERROR;error;builder.py;File "C:\Users\user\Desktop\workspace\Cancerfree\Hexo_Builder\builder.py", line 72, in new_Hexo_project
+[2023-11-20 09:40:46,108];ERROR;error;builder.py;shutil.rmtree(r'./projects/{}'.format(project_name))
+[2023-11-20 09:40:46,108];ERROR;error;builder.py;File "C:\Users\user\AppData\Local\Programs\Python\Python311\Lib\shutil.py", line 759, in rmtree
+[2023-11-20 09:40:46,120];ERROR;error;builder.py;return _rmtree_unsafe(path, onerror)
+[2023-11-20 09:40:46,120];ERROR;error;builder.py;^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[2023-11-20 09:40:46,120];ERROR;error;builder.py;File "C:\Users\user\AppData\Local\Programs\Python\Python311\Lib\shutil.py", line 617, in _rmtree_unsafe
+[2023-11-20 09:40:46,120];ERROR;error;builder.py;_rmtree_unsafe(fullname, onerror)
+[2023-11-20 09:40:46,121];ERROR;error;builder.py;File "C:\Users\user\AppData\Local\Programs\Python\Python311\Lib\shutil.py", line 617, in _rmtree_unsafe
+[2023-11-20 09:40:46,121];ERROR;error;builder.py;_rmtree_unsafe(fullname, onerror)
+[2023-11-20 09:40:46,121];ERROR;error;builder.py;File "C:\Users\user\AppData\Local\Programs\Python\Python311\Lib\shutil.py", line 617, in _rmtree_unsafe
+[2023-11-20 09:40:46,122];ERROR;error;builder.py;_rmtree_unsafe(fullname, onerror)
+[2023-11-20 09:40:46,122];ERROR;error;builder.py;[Previous line repeated 1 more time]
+[2023-11-20 09:40:46,122];ERROR;error;builder.py;File "C:\Users\user\AppData\Local\Programs\Python\Python311\Lib\shutil.py", line 622, in _rmtree_unsafe
+[2023-11-20 09:40:46,122];ERROR;error;builder.py;onerror(os.unlink, fullname, sys.exc_info())
+[2023-11-20 09:40:46,123];ERROR;error;builder.py;File "C:\Users\user\AppData\Local\Programs\Python\Python311\Lib\shutil.py", line 620, in _rmtree_unsafe
+[2023-11-20 09:40:46,123];ERROR;error;builder.py;os.unlink(fullname)
+[2023-11-20 09:40:46,123];ERROR;error;builder.py;PermissionError: [WinError 5] 存取被拒。: './projects/test_repo_2\\public\\.git\\objects\\0f\\aadb79d3f96b1200f7db91fbdab00cf0c7ac0c'
+[2023-11-20 09:41:18,587];ERROR;error;newHexo.bat;warning hexo > warehouse > cuid@2.1.8: Cuid and other k-sortable and non-cryptographic ids (Ulid, ObjectId, KSUID, all UUIDs) are all insecure. Use @paralleldrive/cuid2 instead.
+[2023-11-20 09:41:31,868];ERROR;error;pushProject.bat;warning: LF will be replaced by CRLF in css/animate.css.
+[2023-11-20 09:41:31,869];ERROR;error;pushProject.bat;The file will have its original line endings in your working directory
+[2023-11-20 09:41:31,869];ERROR;error;pushProject.bat;warning: LF will be replaced by CRLF in css/style.css.
+[2023-11-20 09:41:31,869];ERROR;error;pushProject.bat;The file will have its original line endings in your working directory
+[2023-11-20 09:41:31,869];ERROR;error;pushProject.bat;warning: LF will be replaced by CRLF in css/tocas.css.
+[2023-11-20 09:41:31,869];ERROR;error;pushProject.bat;The file will have its original line endings in your working directory
+[2023-11-20 09:41:31,869];ERROR;error;pushProject.bat;warning: LF will be replaced by CRLF in js/script.js.
+[2023-11-20 09:41:31,869];ERROR;error;pushProject.bat;The file will have its original line endings in your working directory
+[2023-11-20 09:41:31,869];ERROR;error;pushProject.bat;warning: LF will be replaced by CRLF in js/tocas.js.
+[2023-11-20 09:41:31,869];ERROR;error;pushProject.bat;The file will have its original line endings in your working directory
+[2023-11-20 09:41:31,869];ERROR;error;pushProject.bat;From github.com:TeemoMouse/blog_page
+[2023-11-20 09:41:31,869];ERROR;error;pushProject.bat;* branch            main       -> FETCH_HEAD
+[2023-11-20 09:41:31,869];ERROR;error;pushProject.bat;* [new branch]      main       -> origin/main
+[2023-11-20 09:41:31,869];ERROR;error;pushProject.bat;To github.com:TeemoMouse/blog_page.git
+[2023-11-20 09:41:31,869];ERROR;error;pushProject.bat;+ fa5c1a1...8b9092b main -> main (forced update)
+[2023-11-20 09:54:12,124];ERROR;error;builder.py;Traceback (most recent call last):
+[2023-11-20 09:54:12,124];ERROR;error;builder.py;File "C:\Users\user\Desktop\workspace\Cancerfree\Hexo_Builder\builder.py", line 262, in <module>
+[2023-11-20 09:54:12,125];ERROR;error;builder.py;new_Hexo_project(args.rebuild, user_config['project_name'])
+[2023-11-20 09:54:12,125];ERROR;error;builder.py;File "C:\Users\user\Desktop\workspace\Cancerfree\Hexo_Builder\builder.py", line 72, in new_Hexo_project
+[2023-11-20 09:54:12,126];ERROR;error;builder.py;shutil.rmtree(r'./projects/{}'.format(project_name))
+[2023-11-20 09:54:12,126];ERROR;error;builder.py;File "C:\Users\user\AppData\Local\Programs\Python\Python311\Lib\shutil.py", line 759, in rmtree
+[2023-11-20 09:54:12,127];ERROR;error;builder.py;return _rmtree_unsafe(path, onerror)
+[2023-11-20 09:54:12,128];ERROR;error;builder.py;^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[2023-11-20 09:54:12,128];ERROR;error;builder.py;File "C:\Users\user\AppData\Local\Programs\Python\Python311\Lib\shutil.py", line 617, in _rmtree_unsafe
+[2023-11-20 09:54:12,128];ERROR;error;builder.py;_rmtree_unsafe(fullname, onerror)
+[2023-11-20 09:54:12,129];ERROR;error;builder.py;File "C:\Users\user\AppData\Local\Programs\Python\Python311\Lib\shutil.py", line 617, in _rmtree_unsafe
+[2023-11-20 09:54:12,129];ERROR;error;builder.py;_rmtree_unsafe(fullname, onerror)
+[2023-11-20 09:54:12,130];ERROR;error;builder.py;File "C:\Users\user\AppData\Local\Programs\Python\Python311\Lib\shutil.py", line 617, in _rmtree_unsafe
+[2023-11-20 09:54:12,130];ERROR;error;builder.py;_rmtree_unsafe(fullname, onerror)
+[2023-11-20 09:54:12,131];ERROR;error;builder.py;[Previous line repeated 1 more time]
+[2023-11-20 09:54:12,131];ERROR;error;builder.py;File "C:\Users\user\AppData\Local\Programs\Python\Python311\Lib\shutil.py", line 622, in _rmtree_unsafe
+[2023-11-20 09:54:12,131];ERROR;error;builder.py;onerror(os.unlink, fullname, sys.exc_info())
+[2023-11-20 09:54:12,132];ERROR;error;builder.py;File "C:\Users\user\AppData\Local\Programs\Python\Python311\Lib\shutil.py", line 620, in _rmtree_unsafe
+[2023-11-20 09:54:12,132];ERROR;error;builder.py;os.unlink(fullname)
+[2023-11-20 09:54:12,133];ERROR;error;builder.py;PermissionError: [WinError 5] 存取被拒。: './projects/test_repo_2\\public\\.git\\objects\\0f\\aadb79d3f96b1200f7db91fbdab00cf0c7ac0c'
+[2023-11-20 09:54:42,994];ERROR;error;newHexo.bat;warning hexo > warehouse > cuid@2.1.8: Cuid and other k-sortable and non-cryptographic ids (Ulid, ObjectId, KSUID, all UUIDs) are all insecure. Use @paralleldrive/cuid2 instead.
+[2023-11-20 09:54:56,677];ERROR;error;pushProject.bat;warning: LF will be replaced by CRLF in css/animate.css.
+[2023-11-20 09:54:56,677];ERROR;error;pushProject.bat;The file will have its original line endings in your working directory
+[2023-11-20 09:54:56,677];ERROR;error;pushProject.bat;warning: LF will be replaced by CRLF in css/style.css.
+[2023-11-20 09:54:56,678];ERROR;error;pushProject.bat;The file will have its original line endings in your working directory
+[2023-11-20 09:54:56,678];ERROR;error;pushProject.bat;warning: LF will be replaced by CRLF in css/tocas.css.
+[2023-11-20 09:54:56,678];ERROR;error;pushProject.bat;The file will have its original line endings in your working directory
+[2023-11-20 09:54:56,679];ERROR;error;pushProject.bat;warning: LF will be replaced by CRLF in js/script.js.
+[2023-11-20 09:54:56,679];ERROR;error;pushProject.bat;The file will have its original line endings in your working directory
+[2023-11-20 09:54:56,679];ERROR;error;pushProject.bat;warning: LF will be replaced by CRLF in js/tocas.js.
+[2023-11-20 09:54:56,680];ERROR;error;pushProject.bat;The file will have its original line endings in your working directory
+[2023-11-20 09:54:56,680];ERROR;error;pushProject.bat;From github.com:TeemoMouse/blog_page
+[2023-11-20 09:54:56,680];ERROR;error;pushProject.bat;* branch            main       -> FETCH_HEAD
+[2023-11-20 09:54:56,681];ERROR;error;pushProject.bat;* [new branch]      main       -> origin/main
+[2023-11-20 09:54:56,681];ERROR;error;pushProject.bat;To github.com:TeemoMouse/blog_page.git
+[2023-11-20 09:54:56,681];ERROR;error;pushProject.bat;+ 8b9092b...29e8d1b main -> main (forced update)
+[2023-11-20 14:11:58,833];ERROR;error;newHexo.bat;warning hexo > warehouse > cuid@2.1.8: Cuid and other k-sortable and non-cryptographic ids (Ulid, ObjectId, KSUID, all UUIDs) are all insecure. Use @paralleldrive/cuid2 instead.
+[2023-11-20 14:12:09,572];ERROR;error;pushProject.bat;warning: LF will be replaced by CRLF in css/style.css.
+[2023-11-20 14:12:09,572];ERROR;error;pushProject.bat;The file will have its original line endings in your working directory
+[2023-11-20 14:12:09,573];ERROR;error;pushProject.bat;warning: LF will be replaced by CRLF in fancybox/jquery.fancybox.min.js.
+[2023-11-20 14:12:09,573];ERROR;error;pushProject.bat;The file will have its original line endings in your working directory
+[2023-11-20 14:12:09,573];ERROR;error;pushProject.bat;warning: LF will be replaced by CRLF in js/jquery-3.6.4.min.js.
+[2023-11-20 14:12:09,573];ERROR;error;pushProject.bat;The file will have its original line endings in your working directory
+[2023-11-20 14:12:09,574];ERROR;error;pushProject.bat;warning: LF will be replaced by CRLF in js/script.js.
+[2023-11-20 14:12:09,574];ERROR;error;pushProject.bat;The file will have its original line endings in your working directory
+[2023-11-20 14:12:09,574];ERROR;error;pushProject.bat;fatal: couldn't find remote ref main
+[2023-11-20 14:12:09,574];ERROR;error;pushProject.bat;To github.com:TeemoMouse/check.git
+[2023-11-20 14:12:09,574];ERROR;error;pushProject.bat;* [new branch]      main -> main
+[2023-11-20 14:16:13,041];ERROR;error;newHexo.bat;warning hexo > warehouse > cuid@2.1.8: Cuid and other k-sortable and non-cryptographic ids (Ulid, ObjectId, KSUID, all UUIDs) are all insecure. Use @paralleldrive/cuid2 instead.
+[2023-11-20 14:16:25,440];ERROR;error;pushProject.bat;warning: LF will be replaced by CRLF in css/style.css.
+[2023-11-20 14:16:25,440];ERROR;error;pushProject.bat;The file will have its original line endings in your working directory
+[2023-11-20 14:16:25,441];ERROR;error;pushProject.bat;warning: LF will be replaced by CRLF in fancybox/jquery.fancybox.min.js.
+[2023-11-20 14:16:25,441];ERROR;error;pushProject.bat;The file will have its original line endings in your working directory
+[2023-11-20 14:16:25,441];ERROR;error;pushProject.bat;warning: LF will be replaced by CRLF in js/jquery-3.6.4.min.js.
+[2023-11-20 14:16:25,441];ERROR;error;pushProject.bat;The file will have its original line endings in your working directory
+[2023-11-20 14:16:25,442];ERROR;error;pushProject.bat;warning: LF will be replaced by CRLF in js/script.js.
+[2023-11-20 14:16:25,442];ERROR;error;pushProject.bat;The file will have its original line endings in your working directory
+[2023-11-20 14:16:25,442];ERROR;error;pushProject.bat;From github.com:TeemoMouse/check
+[2023-11-20 14:16:25,444];ERROR;error;pushProject.bat;* branch            gh-pages   -> FETCH_HEAD
+[2023-11-20 14:16:25,444];ERROR;error;pushProject.bat;* [new branch]      gh-pages   -> origin/gh-pages
+[2023-11-20 14:16:25,445];ERROR;error;pushProject.bat;To github.com:TeemoMouse/check.git
+[2023-11-20 14:16:25,445];ERROR;error;pushProject.bat;+ 1d72c3b...fecb6aa gh-pages -> gh-pages (forced update)
+[2023-11-22 12:54:18,454];ERROR;error;builder.py;Traceback (most recent call last):
+[2023-11-22 12:54:18,470];ERROR;error;builder.py;File "C:\Users\user\Desktop\workspace\Cancerfree\Projects\Hexo_Builder\builder.py", line 258, in <module>
+[2023-11-22 12:54:18,470];ERROR;error;builder.py;with open(SETTING_DEFAULT_PATH + args.setting_file, 'r', encoding='utf-8') as f:
+[2023-11-22 12:54:18,470];ERROR;error;builder.py;^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[2023-11-22 12:54:18,470];ERROR;error;builder.py;FileNotFoundError: [Errno 2] No such file or directory: './customize/input_settings/test1.yml'
+[2023-11-22 12:55:13,917];ERROR;error;newHexo.bat;warning hexo > warehouse > cuid@2.1.8: Cuid and other k-sortable and non-cryptographic ids (Ulid, ObjectId, KSUID, all UUIDs) are all insecure. Use @paralleldrive/cuid2 instead.
+[2023-11-27 12:44:08,062];ERROR;error;builder.py;Traceback (most recent call last):
+[2023-11-27 12:44:08,062];ERROR;error;builder.py;File "C:\Users\user\Desktop\workspace\Cancerfree\Projects\Hexo_Builder\builder.py", line 303, in <module>
+[2023-11-27 12:44:08,062];ERROR;error;builder.py;with open(SETTING_DEFAULT_PATH + args.setting_file, 'r', encoding='utf-8') as f:
+[2023-11-27 12:44:08,062];ERROR;error;builder.py;^^^^^^^^^^^^^^^^^
+[2023-11-27 12:44:08,062];ERROR;error;builder.py;AttributeError: 'Namespace' object has no attribute 'setting_file'
+[2023-11-27 12:45:53,225];ERROR;error;newHexo.bat;warning hexo > warehouse > cuid@2.1.8: Cuid and other k-sortable and non-cryptographic ids (Ulid, ObjectId, KSUID, all UUIDs) are all insecure. Use @paralleldrive/cuid2 instead.
+[2023-11-27 12:45:53,225];ERROR;error;newHexo.bat;warning hexo-renderer-marked > jsdom > domexception@4.0.0: Use your platform's native DOMException instead
+[2023-11-27 13:01:44,094];ERROR;error;newHexo.bat;warning hexo > warehouse > cuid@2.1.8: Cuid and other k-sortable and non-cryptographic ids (Ulid, ObjectId, KSUID, all UUIDs) are all insecure. Use @paralleldrive/cuid2 instead.
+[2023-11-27 13:01:44,094];ERROR;error;newHexo.bat;warning hexo-renderer-marked > jsdom > domexception@4.0.0: Use your platform's native DOMException instead
+[2023-11-27 13:01:44,347];ERROR;error;builder.py;Traceback (most recent call last):
+[2023-11-27 13:01:44,347];ERROR;error;builder.py;File "C:\Users\user\Desktop\workspace\Cancerfree\Projects\Hexo_Builder\builder.py", line 320, in <module>
+[2023-11-27 13:01:44,347];ERROR;error;builder.py;if len(args.chatgpt) == 0:
+[2023-11-27 13:01:44,349];ERROR;error;builder.py;^^^^^^^^^^^^^^^^^
+[2023-11-27 13:01:44,349];ERROR;error;builder.py;TypeError: object of type 'NoneType' has no len()
+[2023-11-27 13:02:59,204];ERROR;error;newHexo.bat;warning hexo > warehouse > cuid@2.1.8: Cuid and other k-sortable and non-cryptographic ids (Ulid, ObjectId, KSUID, all UUIDs) are all insecure. Use @paralleldrive/cuid2 instead.
+[2023-11-27 13:02:59,204];ERROR;error;newHexo.bat;warning hexo-renderer-marked > jsdom > domexception@4.0.0: Use your platform's native DOMException instead
+[2023-11-27 13:02:59,450];ERROR;error;builder.py;Traceback (most recent call last):
+[2023-11-27 13:02:59,450];ERROR;error;builder.py;File "C:\Users\user\Desktop\workspace\Cancerfree\Projects\Hexo_Builder\builder.py", line 323, in <module>
+[2023-11-27 13:02:59,450];ERROR;error;builder.py;args.chatgpt = list(set(args.chatgpt))
+[2023-11-27 13:02:59,452];ERROR;error;builder.py;^^^^^^^^^^^^^^^^^
+[2023-11-27 13:02:59,452];ERROR;error;builder.py;TypeError: 'NoneType' object is not iterable
+[2023-11-27 13:03:52,820];ERROR;error;newHexo.bat;warning hexo > warehouse > cuid@2.1.8: Cuid and other k-sortable and non-cryptographic ids (Ulid, ObjectId, KSUID, all UUIDs) are all insecure. Use @paralleldrive/cuid2 instead.
+[2023-11-27 13:03:52,820];ERROR;error;newHexo.bat;warning hexo-renderer-marked > jsdom > domexception@4.0.0: Use your platform's native DOMException instead
+[2023-11-27 13:07:57,807];ERROR;error;newHexo.bat;warning hexo > warehouse > cuid@2.1.8: Cuid and other k-sortable and non-cryptographic ids (Ulid, ObjectId, KSUID, all UUIDs) are all insecure. Use @paralleldrive/cuid2 instead.
+[2023-11-27 13:07:57,807];ERROR;error;newHexo.bat;warning hexo-renderer-marked > jsdom > domexception@4.0.0: Use your platform's native DOMException instead
+[2023-11-27 13:09:50,809];ERROR;error;newHexo.bat;warning hexo > warehouse > cuid@2.1.8: Cuid and other k-sortable and non-cryptographic ids (Ulid, ObjectId, KSUID, all UUIDs) are all insecure. Use @paralleldrive/cuid2 instead.
+[2023-11-27 13:09:50,809];ERROR;error;newHexo.bat;warning hexo-renderer-marked > jsdom > domexception@4.0.0: Use your platform's native DOMException instead
+[2023-11-27 13:10:20,890];ERROR;error;newHexo.bat;warning hexo > warehouse > cuid@2.1.8: Cuid and other k-sortable and non-cryptographic ids (Ulid, ObjectId, KSUID, all UUIDs) are all insecure. Use @paralleldrive/cuid2 instead.
+[2023-11-27 13:10:20,890];ERROR;error;newHexo.bat;warning hexo-renderer-marked > jsdom > domexception@4.0.0: Use your platform's native DOMException instead
+[2023-11-27 13:16:45,370];ERROR;error;newHexo.bat;warning hexo > warehouse > cuid@2.1.8: Cuid and other k-sortable and non-cryptographic ids (Ulid, ObjectId, KSUID, all UUIDs) are all insecure. Use @paralleldrive/cuid2 instead.
+[2023-11-27 13:16:45,370];ERROR;error;newHexo.bat;warning hexo-renderer-marked > jsdom > domexception@4.0.0: Use your platform's native DOMException instead
+[2023-11-27 14:40:34,952];ERROR;error;newHexo.bat;warning hexo > warehouse > cuid@2.1.8: Cuid and other k-sortable and non-cryptographic ids (Ulid, ObjectId, KSUID, all UUIDs) are all insecure. Use @paralleldrive/cuid2 instead.
+[2023-11-27 14:40:34,952];ERROR;error;newHexo.bat;warning hexo-renderer-marked > jsdom > abab@2.0.6: Use your platform's native atob() and btoa() methods instead
+[2023-11-27 14:40:34,952];ERROR;error;newHexo.bat;warning hexo-renderer-marked > jsdom > data-urls > abab@2.0.6: Use your platform's native atob() and btoa() methods instead
+[2023-11-27 14:40:34,952];ERROR;error;newHexo.bat;warning hexo-renderer-marked > jsdom > domexception@4.0.0: Use your platform's native DOMException instead
+[2023-11-27 14:54:32,394];ERROR;error;newHexo.bat;warning hexo > warehouse > cuid@2.1.8: Cuid and other k-sortable and non-cryptographic ids (Ulid, ObjectId, KSUID, all UUIDs) are all insecure. Use @paralleldrive/cuid2 instead.
+[2023-11-27 14:54:32,394];ERROR;error;newHexo.bat;warning hexo-renderer-marked > jsdom > abab@2.0.6: Use your platform's native atob() and btoa() methods instead
+[2023-11-27 14:54:32,394];ERROR;error;newHexo.bat;warning hexo-renderer-marked > jsdom > data-urls > abab@2.0.6: Use your platform's native atob() and btoa() methods instead
+[2023-11-27 14:54:32,394];ERROR;error;newHexo.bat;warning hexo-renderer-marked > jsdom > domexception@4.0.0: Use your platform's native DOMException instead
+[2023-11-27 14:54:32,730];ERROR;error;builder.py;Traceback (most recent call last):
+[2023-11-27 14:54:32,730];ERROR;error;builder.py;File "C:\Users\user\Desktop\workspace\Cancerfree\Projects\Hexo_Builder\builder.py", line 332, in <module>
+[2023-11-27 14:54:32,730];ERROR;error;builder.py;files = add_md_files(user_config['project_name'], user_config['markdown_files'], args.chatgpt)
+[2023-11-27 14:54:32,730];ERROR;error;builder.py;^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[2023-11-27 14:54:32,730];ERROR;error;builder.py;File "C:\Users\user\Desktop\workspace\Cancerfree\Projects\Hexo_Builder\builder.py", line 200, in add_md_files
+[2023-11-27 14:54:32,730];ERROR;error;builder.py;total, count = len(chatgpt_keywords) * len(quetions), 0
+[2023-11-27 14:54:32,730];ERROR;error;builder.py;^^^^^^^^
+[2023-11-27 14:54:32,730];ERROR;error;builder.py;UnboundLocalError: cannot access local variable 'quetions' where it is not associated with a value
+[2023-11-27 14:56:20,258];ERROR;error;newHexo.bat;warning hexo > warehouse > cuid@2.1.8: Cuid and other k-sortable and non-cryptographic ids (Ulid, ObjectId, KSUID, all UUIDs) are all insecure. Use @paralleldrive/cuid2 instead.
+[2023-11-27 14:56:20,258];ERROR;error;newHexo.bat;warning hexo-renderer-marked > jsdom > abab@2.0.6: Use your platform's native atob() and btoa() methods instead
+[2023-11-27 14:56:20,258];ERROR;error;newHexo.bat;warning hexo-renderer-marked > jsdom > data-urls > abab@2.0.6: Use your platform's native atob() and btoa() methods instead
+[2023-11-27 14:56:20,258];ERROR;error;newHexo.bat;warning hexo-renderer-marked > jsdom > domexception@4.0.0: Use your platform's native DOMException instead
+[2023-11-27 15:07:33,635];ERROR;error;newHexo.bat;warning hexo > warehouse > cuid@2.1.8: Cuid and other k-sortable and non-cryptographic ids (Ulid, ObjectId, KSUID, all UUIDs) are all insecure. Use @paralleldrive/cuid2 instead.
+[2023-11-27 15:07:33,635];ERROR;error;newHexo.bat;warning hexo-renderer-marked > jsdom > abab@2.0.6: Use your platform's native atob() and btoa() methods instead
+[2023-11-27 15:07:33,635];ERROR;error;newHexo.bat;warning hexo-renderer-marked > jsdom > data-urls > abab@2.0.6: Use your platform's native atob() and btoa() methods instead
+[2023-11-27 15:07:33,635];ERROR;error;newHexo.bat;warning hexo-renderer-marked > jsdom > domexception@4.0.0: Use your platform's native DOMException instead
+[2023-11-27 15:21:43,088];ERROR;error;newHexo.bat;warning hexo > warehouse > cuid@2.1.8: Cuid and other k-sortable and non-cryptographic ids (Ulid, ObjectId, KSUID, all UUIDs) are all insecure. Use @paralleldrive/cuid2 instead.
+[2023-11-27 15:21:43,088];ERROR;error;newHexo.bat;warning hexo-renderer-marked > jsdom > abab@2.0.6: Use your platform's native atob() and btoa() methods instead
+[2023-11-27 15:21:43,088];ERROR;error;newHexo.bat;warning hexo-renderer-marked > jsdom > data-urls > abab@2.0.6: Use your platform's native atob() and btoa() methods instead
+[2023-11-27 15:21:43,088];ERROR;error;newHexo.bat;warning hexo-renderer-marked > jsdom > domexception@4.0.0: Use your platform's native DOMException instead
+[2023-11-27 15:43:50,560];ERROR;error;builder.py;Traceback (most recent call last):
+[2023-11-27 15:43:50,560];ERROR;error;builder.py;File "C:\Users\user\Desktop\workspace\Cancerfree\Projects\Hexo_Builder\builder.py", line 325, in <module>
+[2023-11-27 15:43:50,560];ERROR;error;builder.py;new_Hexo_project(args.rebuild, user_config['project_name'])
+[2023-11-27 15:43:50,560];ERROR;error;builder.py;File "C:\Users\user\Desktop\workspace\Cancerfree\Projects\Hexo_Builder\builder.py", line 84, in new_Hexo_project
+[2023-11-27 15:43:50,560];ERROR;error;builder.py;shutil.rmtree(r'./projects/{}'.format(project_name))
+[2023-11-27 15:43:50,560];ERROR;error;builder.py;File "C:\Users\user\AppData\Local\Programs\Python\Python311\Lib\shutil.py", line 759, in rmtree
+[2023-11-27 15:43:50,560];ERROR;error;builder.py;return _rmtree_unsafe(path, onerror)
+[2023-11-27 15:43:50,560];ERROR;error;builder.py;^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[2023-11-27 15:43:50,560];ERROR;error;builder.py;File "C:\Users\user\AppData\Local\Programs\Python\Python311\Lib\shutil.py", line 626, in _rmtree_unsafe
+[2023-11-27 15:43:50,560];ERROR;error;builder.py;onerror(os.rmdir, path, sys.exc_info())
+[2023-11-27 15:43:50,560];ERROR;error;builder.py;File "C:\Users\user\AppData\Local\Programs\Python\Python311\Lib\shutil.py", line 624, in _rmtree_unsafe
+[2023-11-27 15:43:50,560];ERROR;error;builder.py;os.rmdir(path)
+[2023-11-27 15:43:50,560];ERROR;error;builder.py;PermissionError: [WinError 32] 程序無法存取檔案，因為檔案正由另一個程序使用。: './projects/test_repo_1'
+[2023-11-27 15:44:28,591];ERROR;error;newHexo.bat;warning hexo > warehouse > cuid@2.1.8: Cuid and other k-sortable and non-cryptographic ids (Ulid, ObjectId, KSUID, all UUIDs) are all insecure. Use @paralleldrive/cuid2 instead.
+[2023-11-27 15:44:28,591];ERROR;error;newHexo.bat;warning hexo-renderer-marked > jsdom > abab@2.0.6: Use your platform's native atob() and btoa() methods instead
+[2023-11-27 15:44:28,591];ERROR;error;newHexo.bat;warning hexo-renderer-marked > jsdom > data-urls > abab@2.0.6: Use your platform's native atob() and btoa() methods instead
+[2023-11-27 15:44:28,591];ERROR;error;newHexo.bat;warning hexo-renderer-marked > jsdom > domexception@4.0.0: Use your platform's native DOMException instead
+[2023-11-27 16:38:10,661];ERROR;error;newHexo.bat;warning hexo > warehouse > cuid@2.1.8: Cuid and other k-sortable and non-cryptographic ids (Ulid, ObjectId, KSUID, all UUIDs) are all insecure. Use @paralleldrive/cuid2 instead.
+[2023-11-27 16:38:10,664];ERROR;error;newHexo.bat;warning hexo-renderer-marked > jsdom > abab@2.0.6: Use your platform's native atob() and btoa() methods instead
+[2023-11-27 16:38:10,664];ERROR;error;newHexo.bat;warning hexo-renderer-marked > jsdom > data-urls > abab@2.0.6: Use your platform's native atob() and btoa() methods instead
+[2023-11-27 16:38:10,666];ERROR;error;newHexo.bat;warning hexo-renderer-marked > jsdom > domexception@4.0.0: Use your platform's native DOMException instead
+[2023-11-27 16:43:16,325];ERROR;error;setGithubConfig.bat;The system cannot find the path specified.

@@ -1,0 +1,36 @@
+archive_type: monthly
+banner: ''
+copyright: null
+excerpt_link: Read More
+fancybox: false
+favicon: /favicon.png
+fb_admins: null
+fb_app_id: null
+gauges_analytics: null
+google_analytics: null
+index_widgets: null
+menu:
+  Archives: /archives
+  Home: /
+recent_posts_limits: 5
+rss: /atom.xml
+show_count: false
+sidebar: right
+twitter: null
+valine:
+  appId: null
+  appKey: null
+  avatar: mm
+  enable: false
+  guest_info: nick,mail,link
+  lang: zh-cn
+  notify: false
+  pageSize: 10
+  placeholder: Just go go
+  verify: false
+widgets:
+- category
+- tag
+- tagcloud
+- archive
+- recent_posts

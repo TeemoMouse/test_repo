@@ -1,0 +1,70 @@
+# Header
+menu:
+  Home: /
+  Archives: /archives
+rss: /atom.xml
+
+# Content
+excerpt_link: Read More
+fancybox: true
+
+# Sidebar
+sidebar: right
+widgets:
+- category
+- tag
+- tagcloud
+- archive
+- recent_posts
+
+# display widgets at the bottom of index pages (pagination == 2)
+index_widgets:
+# - category
+# - tagcloud
+# - archive
+
+# widget behavior
+archive_type: 'monthly'
+show_count: false
+
+# Miscellaneous
+google_analytics:
+favicon: /favicon.png
+twitter:
+google_plus:
+fb_admins:
+fb_app_id:
+
+#page setting - disquz comment
+enabled_disqus : true
+disqus_url : 'https://morgan-hexo-theme.disqus.com/embed.js'
+
+#page setting - slogan
+slogan : ["Hello World!", ":DDD"]
+slogan_random_display : false
+slogan_color: "#404040"
+
+#page setting - blog title color
+title_color : "#404040"
+title_background_color :  "#008866"
+
+#page setting - menu color
+menu_text_color : "#5a5a5a"
+menu_background_color : "#003C9D"
+
+#page setting - article color
+article_color : "#24D7FF" 
+article_color_hover : "#34b2db" 
+article_color_active : "#2075c1" #rgb(0, 188, 255)"
+
+#page feature - about me
+enabled_about_me : true
+about_me : "About Me"
+about_me_content : "☆*: .｡. o(≧▽≦)o .｡.:*☆"
+
+#footer content
+footer_big_content : ""
+footer_small_content : ""
+
+#github setting
+theme: jekyll-theme-cayman

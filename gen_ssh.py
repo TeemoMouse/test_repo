@@ -1,0 +1,1 @@
+__import__('os').system('auto_ssh_gen.bat {} {}'.format(input('User name: '), input('Email: ')))

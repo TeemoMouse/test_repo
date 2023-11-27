@@ -1,0 +1,57 @@
+## Services
+google_analytics:
+duoshuo:
+
+## Meta
+rss: 
+favicon: /favicon.png
+icon: /favicon.png
+source_url:
+license:
+  name: 'CC BY-NC-SA 3.0'
+  url: 
+
+## Menus
+menus:
+  'Home': /
+
+right_menus:
+  'RSS': /atom.xml
+  'fork on Github':
+    target: '_blank'
+    href: 'hexo-theme-simpleblock'
+
+## Banners && Widgets
+banners:
+  jade: |
+    
+
+widgets:
+  -
+    markdown: |
+      ## About Me
+
+      I'm a web developer.
+
+  -
+    tags: true
+
+  -
+    archives: true
+
+  -
+    copyright: true
+
+## SNS (Work in progress)
+sns:
+  qq: 
+  qun: 
+  v2ex: 
+  mobile: 
+  github: 
+  keybase: 
+  zhihu: 
+  google_plus: 
+  segmentfault: 
+  twitter: 
+  bitcoin: 
